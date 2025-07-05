@@ -25,5 +25,6 @@ The wrap widget arranges children widgets horizontally and wraps to the next lin
 The chip widget displays a compact, rounded UI element that has multiple different styles and choices
 
 ---
-## Screenshot
+## Screenshots
 <img src="assets/screenshot.png" alt="UI Screenshot" width="500"/>
+<img src="assets/screenshot_2.png" alt="UI Screenshot" width="500"/>
